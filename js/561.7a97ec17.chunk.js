@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfront=self.webpackChunkfront||[]).push([[561],{20561:(h,s,t)=>{t.r(s),t.d(s,{default:()=>e});var a=t(66734),c=t(70579);const e=(0,a.A)((0,c.jsx)("path",{d:"M12 1 3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5zm-1 6h2v2h-2zm0 4h2v6h-2z"}),"PrivacyTip")}}]);
+//# sourceMappingURL=561.7a97ec17.chunk.js.map
